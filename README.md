@@ -52,7 +52,7 @@
 
 ##
 
-### 📘 Programming Fundamentals
+### 📘 Basic Knowledge
 
 <table>
   <tr>
