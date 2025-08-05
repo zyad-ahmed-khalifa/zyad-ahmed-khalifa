@@ -1,15 +1,9 @@
-<h1 align="center">Hi 👋, I'm Zyad Ahmed Khalifa</h1>
+<h1 align="center">
+    Hi
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="margin-right:10px;" />
+, I'm Zyad Ahmed Khalifa
+</h1>
 <h3 align="center">Front-End Development Student | Learning to Build the Future of the Web</h3>
-
-
-<p align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=zyad-ahmed-khalifa&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  
-  <!-- GitHub Followers -->
-  <img src="https://img.shields.io/github/followers/zyad-ahmed-khalifa?label=Followers&style=for-the-badge" alt="GitHub followers" />
-</p>
-
 
 ---
 
@@ -24,17 +18,56 @@
 
 ## 🛠️ My Skills
 
-### ✅ Core Web Technologies
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+### 🎯 Core Web Technologies
 
-### 🧩 Frameworks / Libraries
-<p>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="HTML5"/><br />
+      <strong>HTML5</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" alt="CSS3"/><br />
+      <strong>CSS3</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"/><br />
+      <strong>JavaScript (ES6)</strong>
+    </td>
+  </tr>
+</table>
+
+##
+
+### 📦 Frameworks & Libraries
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" alt="Bootstrap"/><br />
+      <strong>Bootstrap</strong>
+    </td>
+  </tr>
+</table>
+
+##
+
+### 📘 Programming Fundamentals
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" alt="C"/><br />
+      <strong>C</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" alt="C++"/><br />
+      <strong>C++</strong>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
