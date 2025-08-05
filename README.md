@@ -119,5 +119,7 @@
 
 ---
 
-🧠 Enjoying my work? Give it a ⭐ and follow me!
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=F7F7F7&vCenter=true&multiline=true&width=700&height=100&lines=%F0%9F%A7%A0+Enjoying+my+work%3F+;Give+it+a+%E2%AD%90+and+follow+me!" alt="Typing SVG" /></a>
+
+  
 
