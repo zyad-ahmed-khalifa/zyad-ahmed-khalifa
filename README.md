@@ -47,6 +47,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" alt="Bootstrap"/><br />
       <strong>Bootstrap</strong>
     </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="60" alt="jQuery"/><br />
+      <strong>jQuery</strong>
+    </td>
   </tr>
 </table>
 
