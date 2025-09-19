@@ -74,6 +74,17 @@
 
 ##
 
+### 🧪 Testing
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="60" alt="Jest"/><br />
+      <strong>Jest</strong>
+    </td>
+  </tr>
+</table>
+
 ### 📘 Basic Knowledge
 
 <table>
