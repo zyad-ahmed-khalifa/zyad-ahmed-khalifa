@@ -34,6 +34,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"/><br />
       <strong>JavaScript (ES6)</strong>
     </td>
+      <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" alt="TypeScript"/><br />
+      <strong>TypeScript</strong>
+    </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" alt="Sass"/><br />
       <strong>Sass</strong>
