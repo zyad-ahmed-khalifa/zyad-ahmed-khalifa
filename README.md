@@ -60,6 +60,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="60" alt="jQuery"/><br />
       <strong>jQuery</strong>
     </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" alt="Angular"/><br />
+      <strong>Angular</strong>
+    </td>
   </tr>
 </table>
 
