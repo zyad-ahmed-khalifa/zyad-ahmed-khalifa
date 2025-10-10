@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="margin-right:10px;" />
 , I'm Zyad Ahmed Khalifa
 </h1>
-<h3 align="center">Front-End Development Student | Learning to Build the Future of the Web</h3>
+<h3 align="center">Front-End Developer | Learning to Build the Future of the Web</h3>
 
 ---
 
