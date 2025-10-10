@@ -9,10 +9,10 @@
 
 ## 🧠 About Me
 
-🎓 I'm currently practicing and improving my **Front-End Development** skills.
-💻 I enjoy building modern, responsive, and user-friendly websites  
-🌱 I'm always learning to stay updated with the latest web trends  
-🚀 I aim to become a professional front-end developer and contribute to open source
+🎓 I'm currently honing my **Front-End Development** skills.  
+💻 I enjoy creating **modern, responsive, and user-friendly** web experiences.  
+🌱 Constantly learning to stay up-to-date with the latest **web technologies** and **trends**.  
+🚀 My goal is to become a **professional Front-End Developer** and contribute to **open-source projects**.
 
 ---
 
