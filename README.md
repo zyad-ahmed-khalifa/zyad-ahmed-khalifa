@@ -117,8 +117,12 @@
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
 
-  <a href="https://codeforces.com/profile/Zyad_Ahmed_Khalifa?csrf_token=fdddb2b8787bf88661d3bb08aea723cd" target="_blank">
+  <a href="https://codeforces.com/profile/Zyad_Ahmed_Khalifa" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+
+  <a href="linkedin.com/in/zyad-ahmed-khalifa-92903b37b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
