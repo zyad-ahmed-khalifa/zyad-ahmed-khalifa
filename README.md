@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-🎓 I'm currently studying **Front-End Development**  
+🎓 I'm currently practicing and improving my **Front-End Development** skills.
 💻 I enjoy building modern, responsive, and user-friendly websites  
 🌱 I'm always learning to stay updated with the latest web trends  
 🚀 I aim to become a professional front-end developer and contribute to open source
