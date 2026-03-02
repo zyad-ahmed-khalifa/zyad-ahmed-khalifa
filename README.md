@@ -105,6 +105,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" alt="C++"/><br />
       <strong>C++</strong>
     </td>
+     <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java"/><br />
+      <strong>Java</strong>
+    </td>
   </tr>
 </table>
 
